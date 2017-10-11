@@ -1,5 +1,9 @@
 # Simple Go library for api.ai
 
+## (DEPRECATED) Moved to a new repository
+
+Due to the [change of service name (from api.ai to Dialogflow)](https://blog.dialogflow.com/post/apiai-new-name-dialogflow-new-features/), created a new repository named [dialogflow-go](https://github.com/meinside/dialogflow-go).
+
 ## Install
 
 ```
